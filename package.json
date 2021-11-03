@@ -89,7 +89,7 @@
     "superagent": "^4.1.0",
     "tabulator-tables": "^4.0.5",
     "url-search-params-polyfill": "^5.0.1",
-    "validator": "^10.8.0",
+    "validator": "^13.7.0",
     "whatwg-fetch": "^2.0.3"
   },
   "repository": {
